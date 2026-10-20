@@ -12,15 +12,24 @@
   },
   "tracks": [
     {
-      "target": { "fileID": 15673379, "pck": "BeydMusic0.pck" },
-      "targetRef": { "index": 10140, "name": "无尽的挑战 The Everlasting Trail" },
+      "target": {
+        "fileID": 15673379,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10140,
+        "name": "无尽的挑战 The Everlasting Trail"
+      },
       "audio": {
-        "uri": "audio/taketori_v2.wem",
+        "uri": "../audio/taketori_v2.wem",
         "kind": "wem",
         "sha256": "4ae2381bb787675681b2bde56350f16032c3a098383893b1b3b3f544503492bc",
         "durationHintSec": 313.8
       },
-      "encode": { "preset": "chiptune-6k", "loop": false }
+      "encode": {
+        "preset": "chiptune-6k",
+        "loop": false
+      }
     }
   ]
 }

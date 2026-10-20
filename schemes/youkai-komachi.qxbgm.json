@@ -12,15 +12,24 @@
   },
   "tracks": [
     {
-      "target": { "fileID": 122217526, "pck": "BeydMusic0.pck" },
-      "targetRef": { "index": 10071, "name": "难逃之阵 Against the Invisible Net" },
+      "target": {
+        "fileID": 122217526,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10071,
+        "name": "难逃之阵 Against the Invisible Net"
+      },
       "audio": {
-        "uri": "audio/youkai_komachi_v2.wem",
+        "uri": "../audio/youkai_komachi_v2.wem",
         "kind": "wem",
         "sha256": "6951f5b2ad05a2452820489a619d2d717961c18aade695ebf679ed16cb40e55c",
         "durationHintSec": 156.7
       },
-      "encode": { "preset": "chiptune-6k", "loop": false }
+      "encode": {
+        "preset": "chiptune-6k",
+        "loop": false
+      }
     }
   ]
 }
