@@ -1,0 +1,26 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "touhou-8bit-taketori-lunatic-princess",
+  "name": "竹取飛翔 ～ Lunatic Princess (8bit) 单曲包",
+  "author": "crt106",
+  "description": "NCradle ファミコン音源版《竹取飛翔 ～ Lunatic Princess》替换「无尽的挑战」。6kHz 低通 + PTADPCM beam64 编码。",
+  "createdAt": "2026-10-20T00:00:00+08:00",
+  "gameVersion": "7.1",
+  "wonderland": {
+    "id": "1073741828",
+    "name": "科研存档"
+  },
+  "tracks": [
+    {
+      "target": { "fileID": 15673379, "pck": "BeydMusic0.pck" },
+      "targetRef": { "index": 10140, "name": "无尽的挑战 The Everlasting Trail" },
+      "audio": {
+        "uri": "audio/taketori_v2.wem",
+        "kind": "wem",
+        "sha256": "4ae2381bb787675681b2bde56350f16032c3a098383893b1b3b3f544503492bc",
+        "durationHintSec": 313.8
+      },
+      "encode": { "preset": "chiptune-6k", "loop": false }
+    }
+  ]
+}
