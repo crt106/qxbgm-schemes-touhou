@@ -1,0 +1,26 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "touhou-8bit-youkai-komachi",
+  "name": "東方妖怪小町 (8bit) 单曲包",
+  "author": "crt106",
+  "description": "NCradle ファミコン音源版《東方妖怪小町》替换「难逃之阵」。6kHz 低通 + PTADPCM beam64 编码，已实机验证。",
+  "createdAt": "2026-10-19T00:00:00+08:00",
+  "gameVersion": "7.1",
+  "wonderland": {
+    "id": "1073741828",
+    "name": "科研存档"
+  },
+  "tracks": [
+    {
+      "target": { "fileID": 122217526, "pck": "BeydMusic0.pck" },
+      "targetRef": { "index": 10071, "name": "难逃之阵 Against the Invisible Net" },
+      "audio": {
+        "uri": "audio/youkai_komachi_v2.wem",
+        "kind": "wem",
+        "sha256": "6951f5b2ad05a2452820489a619d2d717961c18aade695ebf679ed16cb40e55c",
+        "durationHintSec": 156.7
+      },
+      "encode": { "preset": "chiptune-6k", "loop": false }
+    }
+  ]
+}
