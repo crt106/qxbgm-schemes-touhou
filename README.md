@@ -1,6 +1,18 @@
-# 东方 8bit BGM 方案仓库（发布者仓库示例）
+# 东方原曲与 8bit BGM 方案
 
-本仓库是 qxbgm/v1 方案的发布者仓库示例，用 git 管理方案版本。
+QxBgmManager 的东方音乐替换方案仓库，原名 `qxbgm-schemes-touhou8bit`，现为 `qxbgm-schemes-touhou`。
+
+## 原曲全替换方案
+
+| 方案 | 条目 | 下载与说明 |
+|---|---:|---|
+| TH01 灵异传·原版全曲替换（修复版） | 15 | [下载](https://github.com/crt106/qxbgm-schemes-touhou/releases/tag/th01-original-v2.0.0) · [说明](docs/th01-original-full-v2.md) |
+
+使用 [QxBgmManager 0.1.2 或更新版本](https://github.com/crt106/QxBgmManager)，在方案市场刷新后安装；也可下载 `.qxbgmzip`，到“方案管理”打开并安装。替换前退出游戏。更新或修复游戏前请恢复音乐。
+
+`index/` 为 app 索引，同步收录于 [中心索引](https://github.com/crt106/qxbgm-registry)。完整安装包和新音频放在 Releases，`schemes/` 保存带下载地址及 SHA256 的清单。
+
+原曲权利归原作者所有；仓库工具和索引的许可不包含音频再授权。
 
 ## 结构
 

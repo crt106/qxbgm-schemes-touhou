@@ -1,0 +1,330 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "th01-original-full-v2",
+  "name": "TH01 灵异传·原版全曲替换（修复版）",
+  "author": "ZUN（原曲）／crt106（本地预设整理）",
+  "description": "15 首原作音源，已修正单声道配置。请先卸载旧版，再安装本方案；地图音乐选择“原神”。",
+  "createdAt": "2026-10-23T00:00:00+08:00",
+  "wonderland": {
+    "id": "1073741831",
+    "name": "TH01 灵异传"
+  },
+  "tracks": [
+    {
+      "target": {
+        "fileID": 582124370,
+        "pck": "BeydMusic4.pck"
+      },
+      "targetRef": {
+        "index": 10012,
+        "name": "壶中洞天"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/REIMU.wem",
+        "kind": "wem",
+        "sha256": "2508f855ae34d708f8df5d9438c026ecf24ed7bc457bb3fe2cafa2136336f2ab",
+        "durationHintSec": 103.05066666666667
+      },
+      "th01": {
+        "slot": "REIMU",
+        "title": "标题",
+        "sourceMdtSha256": "3569dea86dab503318a1b3884c0933d4a7b5280be08b2e278a789c5de0a735bf"
+      }
+    },
+    {
+      "target": {
+        "fileID": 426911260,
+        "pck": "BeydMusic3.pck"
+      },
+      "targetRef": {
+        "index": 10027,
+        "name": "疾如猛火"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST0.wem",
+        "kind": "wem",
+        "sha256": "c134fcae934716d2190ef3593e83eb6c13d2dabff91cc4cb755130f16c209da0",
+        "durationHintSec": 93.984
+      },
+      "th01": {
+        "slot": "ST0",
+        "title": "永远的巫女",
+        "sourceMdtSha256": "f4aebd594ae5d73e8dad283e960b920f5fcea092bce363ffab5380516286035d"
+      }
+    },
+    {
+      "target": {
+        "fileID": 235637515,
+        "pck": "BeydMusic1.pck"
+      },
+      "targetRef": {
+        "index": 10002,
+        "name": "鲜衣游侠"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/POSITIVE.wem",
+        "kind": "wem",
+        "sha256": "72361ea70aee9e27b279bce2b1eb48547ace550b732eb4bd3346582df6bd281a",
+        "durationHintSec": 56.034666666666666
+      },
+      "th01": {
+        "slot": "POSITIVE",
+        "title": "阴阳",
+        "sourceMdtSha256": "28c34063dee5ca2add99416080fb11674c6355de2b2df1ef0bddcdab162a41fe"
+      }
+    },
+    {
+      "target": {
+        "fileID": 763680284,
+        "pck": "BeydMusic5.pck"
+      },
+      "targetRef": {
+        "index": 10017,
+        "name": "逐火如弦"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST1.wem",
+        "kind": "wem",
+        "sha256": "e124f394089b8605d1ec2000e2adff4377e1a2be5e5159c30f28c413f2c9ba15",
+        "durationHintSec": 123.824
+      },
+      "th01": {
+        "slot": "ST1",
+        "title": "献给神明的魂魄",
+        "sourceMdtSha256": "db7c8dfe50ebc46eef2dda381cb1d49059698631458d8b824e9ad423622e0ff7"
+      }
+    },
+    {
+      "target": {
+        "fileID": 274436063,
+        "pck": "BeydMusic2.pck"
+      },
+      "targetRef": {
+        "index": 10022,
+        "name": "极寒的险地"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST2.wem",
+        "kind": "wem",
+        "sha256": "a230228d06492660e58d7781d2e678add7dbf5180657890258e2d9430abd4e73",
+        "durationHintSec": 93.808
+      },
+      "th01": {
+        "slot": "ST2",
+        "title": "东方怪奇谈",
+        "sourceMdtSha256": "ccdf655d8a2735fe5106708507bd787c3f70dfda20f8b3711afceff7e1ca916b"
+      }
+    },
+    {
+      "target": {
+        "fileID": 374796954,
+        "pck": "BeydMusic2.pck"
+      },
+      "targetRef": {
+        "index": 10008,
+        "name": "失色的灾厄"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/LEGEND.wem",
+        "kind": "wem",
+        "sha256": "ee928359f7c9cd9a1dcc1989edf8cdeb10856fad7d3a35b74731402629fad434",
+        "durationHintSec": 204.65066666666667
+      },
+      "th01": {
+        "slot": "LEGEND",
+        "title": "天使传说",
+        "sourceMdtSha256": "bca3493c1f3dbccaf394296bbc722a4d5c3dec2408d1a3b24cd86166845dd475"
+      }
+    },
+    {
+      "target": {
+        "fileID": 798288431,
+        "pck": "BeydMusic5.pck"
+      },
+      "targetRef": {
+        "index": 10013,
+        "name": "流金疾驰"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST3.wem",
+        "kind": "wem",
+        "sha256": "5168965230840dc8c85e97bdb9951150d7d772c195295dcbd15b46f4d06c63d5",
+        "durationHintSec": 154.13333333333333
+      },
+      "th01": {
+        "slot": "ST3",
+        "title": "东方魔术师",
+        "sourceMdtSha256": "42d939ca43ef63fc7deb19e5915fb80703b83d57bdc66e0745b1a012a14033a5"
+      }
+    },
+    {
+      "target": {
+        "fileID": 750435785,
+        "pck": "BeydMusic5.pck"
+      },
+      "targetRef": {
+        "index": 10001,
+        "name": "辉闪驰行"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST4.wem",
+        "kind": "wem",
+        "sha256": "cda89b57dccb7c4aceed7b747c88ca4069b1033ef1a4dacf77c22d071a4a6ffb",
+        "durationHintSec": 60.650666666666666
+      },
+      "th01": {
+        "slot": "ST4",
+        "title": "破邪的小太刀",
+        "sourceMdtSha256": "bda42916748b2d3f4900e8d8c2384c1ed0ee3f5fe40cb523ddde5c4f5721be5b"
+      }
+    },
+    {
+      "target": {
+        "fileID": 887940362,
+        "pck": "BeydMusic6.pck"
+      },
+      "targetRef": {
+        "index": 10009,
+        "name": "星灭光离"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/KAMI.wem",
+        "kind": "wem",
+        "sha256": "e51680ec5b4124fc43f6fb6347ae6e9c364256936ead8acd70f1780018396bed",
+        "durationHintSec": 75.34666666666666
+      },
+      "th01": {
+        "slot": "KAMI",
+        "title": "魔镜·地狱",
+        "sourceMdtSha256": "c370dba160a4d7d95f616abc2121dbbaf89c568720bf7f4b3b1dced41a155778"
+      }
+    },
+    {
+      "target": {
+        "fileID": 115252255,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10011,
+        "name": "流金的烈怒"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/KAMI2.wem",
+        "kind": "wem",
+        "sha256": "96535ac2bc353c529d775e905fa7630dcd17ebc4bdf8c96f182ecdbab9eccf34",
+        "durationHintSec": 75.34666666666666
+      },
+      "th01": {
+        "slot": "KAMI2",
+        "title": "魔镜·魔界",
+        "sourceMdtSha256": "7e6a665ff13975608ce8220f1cd26ee7cbffd66f48193195291daa9ce24eea44"
+      }
+    },
+    {
+      "target": {
+        "fileID": 952564916,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10020,
+        "name": "炽火之舞"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ST5.wem",
+        "kind": "wem",
+        "sha256": "c8b2a5ec3292139ef7bd5ed6822475de16dbe6c595c24ac3e39923d14b8375d1",
+        "durationHintSec": 73.75466666666667
+      },
+      "th01": {
+        "slot": "ST5",
+        "title": "影之传说",
+        "sourceMdtSha256": "88968bb8d7f897c65c6273718c9c65b1f3e72de284e96ac1f85f3fb8b5347bcf"
+      }
+    },
+    {
+      "target": {
+        "fileID": 969951455,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10025,
+        "name": "趁生烛尚未殄熄"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/TENSI.wem",
+        "kind": "wem",
+        "sha256": "e6cda3c015456e6b549033aa374ef49d00f2fd97d2970466b1479755e674e972",
+        "durationHintSec": 90.996
+      },
+      "th01": {
+        "slot": "TENSI",
+        "title": "直到逝去的那一刻",
+        "sourceMdtSha256": "fd4416395c1402ca560196be980d6a43659738a8ebb7abf71eb1cbda21ab0ba6"
+      }
+    },
+    {
+      "target": {
+        "fileID": 507630850,
+        "pck": "BeydMusic3.pck"
+      },
+      "targetRef": {
+        "index": 10028,
+        "name": "余烬的顽抗"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/SHUGEN.wem",
+        "kind": "wem",
+        "sha256": "d0a19586f652e3cf52a622a751edecae6e270ed38cc2f79aa2f2a38c4a7874aa",
+        "durationHintSec": 147.07866666666666
+      },
+      "th01": {
+        "slot": "SHUGEN",
+        "title": "一起死去",
+        "sourceMdtSha256": "d20c475ea3d79725460ce883a06fb12672504bfe5a6a5454d8e1857f26980842"
+      }
+    },
+    {
+      "target": {
+        "fileID": 1004613693,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10005,
+        "name": "沉重的恶意"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/ALICE.wem",
+        "kind": "wem",
+        "sha256": "0f43f1ffdc0a5284d002685cefcdf82375da6418cdebedca5e988cb0dbd437e6",
+        "durationHintSec": 99.43466666666667
+      },
+      "th01": {
+        "slot": "ALICE",
+        "title": "星幽剑士",
+        "sourceMdtSha256": "707cdfd907929a7f0088675861c612c4e199fd565013a6d888a6fd06796503c4"
+      }
+    },
+    {
+      "target": {
+        "fileID": 590692079,
+        "pck": "BeydMusic4.pck"
+      },
+      "targetRef": {
+        "index": 10015,
+        "name": "海风细语"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/IRIS.wem",
+        "kind": "wem",
+        "sha256": "9397731dd5f1bb19709d8596328a783d0145368ecf41af280d617caa253bc748",
+        "durationHintSec": 105.65066666666667
+      },
+      "th01": {
+        "slot": "IRIS",
+        "title": "鸢尾花",
+        "sourceMdtSha256": "c0f4b32efc498161b25a4d35b4a35e8f81c4f0805dca9abeea27965704eb2bb3"
+      }
+    }
+  ],
+  "revision": "2.0.0"
+}
