@@ -1,0 +1,219 @@
+{
+  "schema": "th08-bgm-timing-candidate/v1",
+  "mapId": "1073741827",
+  "applied": false,
+  "source": "2026-10-23 正式地图三处只读核对",
+  "loopPolicy": "文件头至一轮终点；保留前奏，不宣称原作无缝循环",
+  "slots": [
+    {
+      "code": 0,
+      "stage": "menu",
+      "slot": "menu",
+      "audioId": 10178,
+      "beforeEndSeconds": 94,
+      "proposedEndSeconds": 72.08199310302734,
+      "originalIntroSeconds": 5.611609977324263,
+      "title": "永夜抄"
+    },
+    {
+      "code": 10,
+      "stage": "1",
+      "slot": "stage",
+      "audioId": 10041,
+      "beforeEndSeconds": 98,
+      "proposedEndSeconds": 131.1158447265625,
+      "originalIntroSeconds": 3.9677097505668932,
+      "title": "幻视之夜"
+    },
+    {
+      "code": 11,
+      "stage": "1",
+      "slot": "boss",
+      "audioId": 10009,
+      "beforeEndSeconds": 242,
+      "proposedEndSeconds": 78.01905059814453,
+      "originalIntroSeconds": 15.789569160997733,
+      "title": "蠢蠢秋月"
+    },
+    {
+      "code": 20,
+      "stage": "2",
+      "slot": "stage",
+      "audioId": 10087,
+      "beforeEndSeconds": 100,
+      "proposedEndSeconds": 149.65261840820312,
+      "originalIntroSeconds": 2.76172335600907,
+      "title": "夜雀的歌声"
+    },
+    {
+      "code": 21,
+      "stage": "2",
+      "slot": "boss",
+      "audioId": 10130,
+      "beforeEndSeconds": 235,
+      "proposedEndSeconds": 96.24816131591797,
+      "originalIntroSeconds": 25.574603174603176,
+      "title": "只能听见歌声"
+    },
+    {
+      "code": 30,
+      "stage": "3",
+      "slot": "stage",
+      "audioId": 10092,
+      "beforeEndSeconds": 96,
+      "proposedEndSeconds": 92.32254028320312,
+      "originalIntroSeconds": 15.537052154195012,
+      "title": "怀念的东方之血"
+    },
+    {
+      "code": 31,
+      "stage": "3",
+      "slot": "boss",
+      "audioId": 10014,
+      "beforeEndSeconds": 250,
+      "proposedEndSeconds": 114.4888916015625,
+      "originalIntroSeconds": 26.9902947845805,
+      "title": "慧音主题曲"
+    },
+    {
+      "code": 40,
+      "stage": "4a",
+      "slot": "stage",
+      "audioId": 10174,
+      "beforeEndSeconds": 104,
+      "proposedEndSeconds": 95.29469299316406,
+      "originalIntroSeconds": 8.282267573696146,
+      "title": "永夜的报应"
+    },
+    {
+      "code": 50,
+      "stage": "4b",
+      "slot": "stage",
+      "audioId": 10174,
+      "beforeEndSeconds": 104,
+      "proposedEndSeconds": 95.29469299316406,
+      "originalIntroSeconds": 8.282267573696146,
+      "title": "永夜的报应"
+    },
+    {
+      "code": 41,
+      "stage": "4a",
+      "slot": "boss",
+      "audioId": 10079,
+      "beforeEndSeconds": 249,
+      "proposedEndSeconds": 164.0257568359375,
+      "originalIntroSeconds": 13.251337868480725,
+      "title": "少女绮想曲"
+    },
+    {
+      "code": 51,
+      "stage": "4b",
+      "slot": "boss",
+      "audioId": 10076,
+      "beforeEndSeconds": 213,
+      "proposedEndSeconds": 126.73451232910156,
+      "originalIntroSeconds": 10.28063492063492,
+      "title": "恋色魔炮"
+    },
+    {
+      "code": 60,
+      "stage": "5",
+      "slot": "stage",
+      "audioId": 10113,
+      "beforeEndSeconds": 94,
+      "proposedEndSeconds": 174.48779296875,
+      "originalIntroSeconds": 6.680090702947846,
+      "title": "灰姑娘的笼子"
+    },
+    {
+      "code": 61,
+      "stage": "5",
+      "slot": "boss",
+      "audioId": 10108,
+      "beforeEndSeconds": 149,
+      "proposedEndSeconds": 120.18358612060547,
+      "originalIntroSeconds": 3.028027210884354,
+      "title": "狂气之瞳"
+    },
+    {
+      "code": 70,
+      "stage": "6a",
+      "slot": "stage",
+      "audioId": 10068,
+      "beforeEndSeconds": 103,
+      "proposedEndSeconds": 86.45460510253906,
+      "originalIntroSeconds": 9.442902494331065,
+      "title": "1969航行"
+    },
+    {
+      "code": 80,
+      "stage": "6b",
+      "slot": "stage",
+      "audioId": 10167,
+      "beforeEndSeconds": 117,
+      "proposedEndSeconds": 86.45460510253906,
+      "originalIntroSeconds": 9.442902494331065,
+      "title": "1969航行"
+    },
+    {
+      "code": 71,
+      "stage": "6a",
+      "slot": "boss",
+      "audioId": 10109,
+      "beforeEndSeconds": 247,
+      "proposedEndSeconds": 178.1492919921875,
+      "originalIntroSeconds": 7.005170068027211,
+      "title": "千年幻想乡"
+    },
+    {
+      "code": 81,
+      "stage": "6b",
+      "slot": "boss",
+      "audioId": 10169,
+      "beforeEndSeconds": 249,
+      "proposedEndSeconds": 179.97787475585938,
+      "originalIntroSeconds": 37.85868480725624,
+      "title": "竹取飞翔"
+    },
+    {
+      "code": 72,
+      "stage": "6a",
+      "slot": "final",
+      "audioId": 10165,
+      "beforeEndSeconds": 191,
+      "proposedEndSeconds": 81.91419219970703,
+      "originalIntroSeconds": 70.08290249433107,
+      "title": "1970航行"
+    },
+    {
+      "code": 82,
+      "stage": "6b",
+      "slot": "final",
+      "audioId": 10187,
+      "beforeEndSeconds": 102,
+      "proposedEndSeconds": 81.91419219970703,
+      "originalIntroSeconds": 70.08290249433107,
+      "title": "1970航行"
+    },
+    {
+      "code": 90,
+      "stage": "extra",
+      "slot": "stage",
+      "audioId": 10020,
+      "beforeEndSeconds": 223,
+      "proposedEndSeconds": 158.8194122314453,
+      "originalIntroSeconds": 4.995918367346939,
+      "title": "延伸的灰烬"
+    },
+    {
+      "code": 91,
+      "stage": "extra",
+      "slot": "boss",
+      "audioId": 10176,
+      "beforeEndSeconds": 126,
+      "proposedEndSeconds": 176.7845001220703,
+      "originalIntroSeconds": 7.566984126984127,
+      "title": "飘至月球，不死之烟"
+    }
+  ]
+}

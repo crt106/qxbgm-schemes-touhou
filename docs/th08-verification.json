@@ -1,0 +1,766 @@
+{
+  "passed": true,
+  "package_sha256": "239ecbdf6cba21a6f8cb9a3d717bc707ca874bef491fd5dbec8fd949fd3764f9",
+  "app_version": "0.1.2",
+  "app_source_commit": "db73a9598a3dd95a88594aecbc8b9f9139880360",
+  "app_checks": {
+    "passed": true,
+    "checks": 73,
+    "tracks": 20,
+    "package_sha256": "239ecbdf6cba21a6f8cb9a3d717bc707ca874bef491fd5dbec8fd949fd3764f9",
+    "real_capacity_checks": true,
+    "synthetic_install_restore": true,
+    "existing_replacements": 2,
+    "real_game_unchanged": true,
+    "gameplay_verified": false
+  },
+  "native_decode": {
+    "passed": true,
+    "targets": 20,
+    "unique_audio": 18,
+    "package_sha256": "239ecbdf6cba21a6f8cb9a3d717bc707ca874bef491fd5dbec8fd949fd3764f9",
+    "total_channel_samples": 182722944,
+    "game_dll_sha256": "b5c5c3b3a796808bf5ee7bf3f86b2a386ca7f8b0bb28396b5ba499fb5afb77d0",
+    "wall_seconds": 27.77563780004857,
+    "method": "在 Unicorn 中隔离执行游戏 DLL 的解析及解码原始指令，全曲双声道与 vgmstream PCM 逐采样比对；未启动游戏。",
+    "gameplay_verified": false,
+    "checks": [
+      {
+        "key": "title",
+        "sha256": "a48a88e88186297da33d7b895553f906ff1ec856e0dfac40ba2e23b330d0f8b8",
+        "sample_frames": 3178816,
+        "channel_samples": 6357632,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s1",
+        "sha256": "8d5be5cd691230634fa62f594adcec155b5f3723effdc303efa3989c97f3e489",
+        "sample_frames": 4195712,
+        "channel_samples": 8391424,
+        "rate": 32000,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b1",
+        "sha256": "f5fbd6fc6ee13eb9020e306797c045201b7d31422570d7cf66e1aa58fae9c5e3",
+        "sample_frames": 3440640,
+        "channel_samples": 6881280,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s2",
+        "sha256": "0ab64c2e93ae85b172084f6cf450988253167f2e1548fbfb005a1e8f182bcb08",
+        "sample_frames": 4788928,
+        "channel_samples": 9577856,
+        "rate": 32000,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b2",
+        "sha256": "c08ec94ab13cf86ef27714d8ee99540748e22bc9f1f43e9d7da2dd5e652580e4",
+        "sample_frames": 4244544,
+        "channel_samples": 8489088,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s3",
+        "sha256": "e4cc1fa4b8d45fdff79b0fce71454978059a80a81543284f9cd72119ddd0be2f",
+        "sample_frames": 4071424,
+        "channel_samples": 8142848,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b3",
+        "sha256": "1e3893df577b58986a1938ca6b173c083e9945d3d186fbe6103ee98088aaab9f",
+        "sample_frames": 5048960,
+        "channel_samples": 10097920,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s4",
+        "sha256": "1857b47ddd5ecff06f77eede9708eedd02a390becf68f7fe59033e8deb3421c8",
+        "sample_frames": 4202496,
+        "channel_samples": 8404992,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b4a",
+        "sha256": "38e4dcd93bb012711fb812eef771cba784b06813f1fed3a85b56b582a63700d2",
+        "sample_frames": 7233536,
+        "channel_samples": 14467072,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b4b",
+        "sha256": "7070da43bb7e94c1aadea4c0912ca80a701e5680b8fbf6d7ee30e1acd3f651d2",
+        "sample_frames": 5588992,
+        "channel_samples": 11177984,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s5",
+        "sha256": "81e5c568721ac160cd715a3172bdd8ee61efd0eacf06adbf52d3762e8a0bf0b4",
+        "sample_frames": 4187712,
+        "channel_samples": 8375424,
+        "rate": 24000,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b5",
+        "sha256": "44cc722f658c8a087785b715c58538ddfc7eb1e3afd96feeef2bee8e8912a71f",
+        "sample_frames": 5300096,
+        "channel_samples": 10600192,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "s6",
+        "sha256": "c43a41a17cfa1e6dd34a9c298cbcefe4915ff5619cba23a08cd528f0ce825d5e",
+        "sample_frames": 3812672,
+        "channel_samples": 7625344,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b6a",
+        "sha256": "3c49c0907fccc082740297eaa02f05e1ef1395330e9433e68307c262d4332125",
+        "sample_frames": 7856384,
+        "channel_samples": 15712768,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "b6b",
+        "sha256": "f701f9710965394a120b9803ac3e77fa3140249f79454e2c793927e8c10319e3",
+        "sample_frames": 7937024,
+        "channel_samples": 15874048,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "final",
+        "sha256": "2dbc0c6c88870c76c8d6ff016faf3c7153b8dc50e058e440b6eb949615065c6d",
+        "sample_frames": 3612416,
+        "channel_samples": 7224832,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "sex",
+        "sha256": "f0e2575684b92609463e286f6febe9d837517adbb6cef32ce837d365ffc3d3b2",
+        "sample_frames": 7003968,
+        "channel_samples": 14007936,
+        "rate": 44100,
+        "full_native_decode_matches": true
+      },
+      {
+        "key": "bex",
+        "sha256": "338feec2fb7c821d3e49c5be0be22a0483743d97c859221ec6b107feadd019db",
+        "sample_frames": 5657152,
+        "channel_samples": 11314304,
+        "rate": 32000,
+        "full_native_decode_matches": true
+      }
+    ]
+  },
+  "encoding": {
+    "passed": true,
+    "tracks": 18,
+    "results": [
+      {
+        "key": "title",
+        "master_sha256": "95438639d9acbc5aec1d20a3ab456b6ce89c9dc5d59e869af832e0fc670db4ae",
+        "wem_sha256": "a48a88e88186297da33d7b895553f906ff1ec856e0dfac40ba2e23b330d0f8b8",
+        "wem_bytes": 3576232,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 3576168,
+          "samples": 3178816,
+          "duration_seconds": 72.08199546485261
+        },
+        "snr_db": [
+          36.03411574017739,
+          36.328025698676875
+        ],
+        "decoded_sha256": "0302bf58b30f62f6f687e2009b96a0cb5a23450bb90a81524d7363c877f383b7",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 66.75337650004076
+      },
+      {
+        "key": "s1",
+        "master_sha256": "be412e79e22444673c529bc59c58f47877760b974ea0f034fd4625785f98bbba",
+        "wem_sha256": "8d5be5cd691230634fa62f594adcec155b5f3723effdc303efa3989c97f3e489",
+        "wem_bytes": 4720240,
+        "format": {
+          "channels": 2,
+          "rate": 32000,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4720176,
+          "samples": 4195712,
+          "duration_seconds": 131.116
+        },
+        "snr_db": [
+          23.09770455589136,
+          26.899182881187727
+        ],
+        "decoded_sha256": "5b23637500a01413b6c9995ee6b5a9ce01ae8450898585bc49a8b5428a8278d4",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 88.21234410000034
+      },
+      {
+        "key": "b1",
+        "master_sha256": "074f220f84c0d0d29950dda392d048b88306305a3ace9d82c19716dad5eaa31a",
+        "wem_sha256": "f5fbd6fc6ee13eb9020e306797c045201b7d31422570d7cf66e1aa58fae9c5e3",
+        "wem_bytes": 3870784,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 3870720,
+          "samples": 3440640,
+          "duration_seconds": 78.01904761904763
+        },
+        "snr_db": [
+          25.357976412469725,
+          26.228641417595547
+        ],
+        "decoded_sha256": "0f75a2eeb915dbeae3f8dbcb35108f81f9a3e81432aaf1715c1a67796cdeece1",
+        "decoded_peak": 31966,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 72.52333009999711
+      },
+      {
+        "key": "s2",
+        "master_sha256": "b54dc7f751348bddb31786a4cade7fffe8c93e88a046b5f41fba69839769676d",
+        "wem_sha256": "0ab64c2e93ae85b172084f6cf450988253167f2e1548fbfb005a1e8f182bcb08",
+        "wem_bytes": 5387608,
+        "format": {
+          "channels": 2,
+          "rate": 32000,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 5387544,
+          "samples": 4788928,
+          "duration_seconds": 149.654
+        },
+        "snr_db": [
+          25.478283962932878,
+          24.005098610535086
+        ],
+        "decoded_sha256": "a2d32b8087a7b556f6788252925f390c85fd3ba578c72fa1b44b98f7ba743479",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 101.02030229999218
+      },
+      {
+        "key": "b2",
+        "master_sha256": "d4649157b9f0d0ea9ed66329d6e89aeab5d4168d4304a65825b935d84a2cb37c",
+        "wem_sha256": "c08ec94ab13cf86ef27714d8ee99540748e22bc9f1f43e9d7da2dd5e652580e4",
+        "wem_bytes": 4775176,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4775112,
+          "samples": 4244544,
+          "duration_seconds": 96.24816326530612
+        },
+        "snr_db": [
+          28.77168557005458,
+          29.138461838476573
+        ],
+        "decoded_sha256": "16398fd60df15d3b9cf971f8d935e75ac524427ea8078c098bc3e703eff506f1",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 91.24411699996563
+      },
+      {
+        "key": "s3",
+        "master_sha256": "cef5a66cb8f27db0ef9581db4758563c67ec696c5b72fe3293f563bcdf9670c3",
+        "wem_sha256": "e4cc1fa4b8d45fdff79b0fce71454978059a80a81543284f9cd72119ddd0be2f",
+        "wem_bytes": 4580416,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4580352,
+          "samples": 4071424,
+          "duration_seconds": 92.32253968253968
+        },
+        "snr_db": [
+          34.00632290003927,
+          34.416163554842186
+        ],
+        "decoded_sha256": "a64a63879aaf6ae572a0e36fba9ce64bb5d014b073d70e814b2f462182ed9845",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 86.82123579998733
+      },
+      {
+        "key": "b3",
+        "master_sha256": "693ecac2b1eed823acfdbf4523080bf509f4d93cf9dda6516a8deb1e4288d0aa",
+        "wem_sha256": "1e3893df577b58986a1938ca6b173c083e9945d3d186fbe6103ee98088aaab9f",
+        "wem_bytes": 5680144,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 5680080,
+          "samples": 5048960,
+          "duration_seconds": 114.4888888888889
+        },
+        "snr_db": [
+          34.64961886279715,
+          33.80742420427182
+        ],
+        "decoded_sha256": "7f244cdb43c6bc7a15e8d4d0689c9f5f1fe9fcfea0d15e8f4afe461363a8535c",
+        "decoded_peak": 32768,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 106.81362139998237
+      },
+      {
+        "key": "s4",
+        "master_sha256": "ef5b530fd15c7d6f664e899471de17031a60f83757d38c427d6d3dc5bfa49141",
+        "wem_sha256": "1857b47ddd5ecff06f77eede9708eedd02a390becf68f7fe59033e8deb3421c8",
+        "wem_bytes": 4727872,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4727808,
+          "samples": 4202496,
+          "duration_seconds": 95.29469387755103
+        },
+        "snr_db": [
+          30.336326537849732,
+          28.391928995290275
+        ],
+        "decoded_sha256": "835ffce1a6ae85f65f8087da77342a6b16e6ee1a20ad49e7beb562a68805b84c",
+        "decoded_peak": 31545,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 90.81864170002518
+      },
+      {
+        "key": "b4a",
+        "master_sha256": "6eeb99e2d7ae0f03b7eefca8540e6f298fd7a6304730a16e06918981a522717f",
+        "wem_sha256": "38e4dcd93bb012711fb812eef771cba784b06813f1fed3a85b56b582a63700d2",
+        "wem_bytes": 8137792,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 8137728,
+          "samples": 7233536,
+          "duration_seconds": 164.0257596371882
+        },
+        "snr_db": [
+          30.28775295836891,
+          28.702041591733412
+        ],
+        "decoded_sha256": "dfcb4ace029ca418b07c15f425831e4753171c4d9bd622faeb175404fbfb7419",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 152.75257209996926
+      },
+      {
+        "key": "b4b",
+        "master_sha256": "7bb32bb0a848fac09bb32db6846606ff63f11f2413b5b6e362e6d5973b841a7c",
+        "wem_sha256": "7070da43bb7e94c1aadea4c0912ca80a701e5680b8fbf6d7ee30e1acd3f651d2",
+        "wem_bytes": 6287680,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 6287616,
+          "samples": 5588992,
+          "duration_seconds": 126.73451247165534
+        },
+        "snr_db": [
+          26.670547631385023,
+          25.194412448884727
+        ],
+        "decoded_sha256": "d36c4ce028724335af3f1f1bff8b0af17775c79d15a18738d3cbea744d5e24fa",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 118.57148810004583
+      },
+      {
+        "key": "s5",
+        "master_sha256": "cd1dfa17c57050454767ef42180d569b9229de056fb32cf46f9e334a381296c9",
+        "wem_sha256": "81e5c568721ac160cd715a3172bdd8ee61efd0eacf06adbf52d3762e8a0bf0b4",
+        "wem_bytes": 4711240,
+        "format": {
+          "channels": 2,
+          "rate": 24000,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4711176,
+          "samples": 4187712,
+          "duration_seconds": 174.488
+        },
+        "snr_db": [
+          21.667981163413206,
+          22.31327128942788
+        ],
+        "decoded_sha256": "a9889809a45b02980e8166fb71f2d5354ae0cb2109c6fdcfa93f1f0673f4b2f0",
+        "decoded_peak": 32768,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 88.36056249996182
+      },
+      {
+        "key": "b5",
+        "master_sha256": "0db30e0b2fbb3a17ff5801ec0bd44c4c7316b30879af89055ad72a3c11f64ef3",
+        "wem_sha256": "44cc722f658c8a087785b715c58538ddfc7eb1e3afd96feeef2bee8e8912a71f",
+        "wem_bytes": 5962672,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 5962608,
+          "samples": 5300096,
+          "duration_seconds": 120.18358276643991
+        },
+        "snr_db": [
+          27.853178410814724,
+          27.077864577121275
+        ],
+        "decoded_sha256": "b676d1b893613850da1a3b8f17919f2f24076a81364acf9d62370ebc811d469e",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 115.10527869994985
+      },
+      {
+        "key": "s6",
+        "master_sha256": "c32f238f2157ea1899396722f3ddda9f7bdd38ea9ec2a8f91c3f24fa39fd4120",
+        "wem_sha256": "c43a41a17cfa1e6dd34a9c298cbcefe4915ff5619cba23a08cd528f0ce825d5e",
+        "wem_bytes": 4289320,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4289256,
+          "samples": 3812672,
+          "duration_seconds": 86.45514739229024
+        },
+        "snr_db": [
+          29.87238512339022,
+          31.96954288287315
+        ],
+        "decoded_sha256": "a6219ff09b0caed73b9dcd31babe06d43258eb6b5cf991f87759f0482e2248d8",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 81.45717930002138
+      },
+      {
+        "key": "b6a",
+        "master_sha256": "6d0d8ef47a0a5cb07dc973129480d89c98d1a5d576260088414fca946486a847",
+        "wem_sha256": "3c49c0907fccc082740297eaa02f05e1ef1395330e9433e68307c262d4332125",
+        "wem_bytes": 8838496,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 8838432,
+          "samples": 7856384,
+          "duration_seconds": 178.1492970521542
+        },
+        "snr_db": [
+          26.798952348128914,
+          26.647146404494112
+        ],
+        "decoded_sha256": "35ffc52a94c4843995bb9618f40c78e885c955e92c62e5c33fdc39e49d9cac17",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 166.21689460001653
+      },
+      {
+        "key": "b6b",
+        "master_sha256": "b25f30d0adacfe6d069874b3c7c6009dbf8310b15c4b970a39c0facdf4f6c20b",
+        "wem_sha256": "f701f9710965394a120b9803ac3e77fa3140249f79454e2c793927e8c10319e3",
+        "wem_bytes": 8929216,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 8929152,
+          "samples": 7937024,
+          "duration_seconds": 179.97786848072562
+        },
+        "snr_db": [
+          26.62895594933292,
+          25.229584071194388
+        ],
+        "decoded_sha256": "14e110673826fe6b721d589b1e1dec60509a8e52868f854a7dc2744f30dc64df",
+        "decoded_peak": 32768,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 170.1757683000178
+      },
+      {
+        "key": "final",
+        "master_sha256": "de03a13c5dd727cb6fbebe9013e98a9cf6934c4cf8df7c69a99fd8feba4e796f",
+        "wem_sha256": "2dbc0c6c88870c76c8d6ff016faf3c7153b8dc50e058e440b6eb949615065c6d",
+        "wem_bytes": 4064032,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 4063968,
+          "samples": 3612416,
+          "duration_seconds": 81.91419501133787
+        },
+        "snr_db": [
+          24.220937168205786,
+          25.902549725770005
+        ],
+        "decoded_sha256": "736d4f030e3dcd7ace326e50c3270f12d3f896fabc77fd3ee091e3e351449675",
+        "decoded_peak": 32768,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 76.00598549999995
+      },
+      {
+        "key": "sex",
+        "master_sha256": "b5f8a1ded4630f9cb2dc397584f2bd5a3a51269f8c273c6bcfa4b27ef1f0c68d",
+        "wem_sha256": "f0e2575684b92609463e286f6febe9d837517adbb6cef32ce837d365ffc3d3b2",
+        "wem_bytes": 7879528,
+        "format": {
+          "channels": 2,
+          "rate": 44100,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 7879464,
+          "samples": 7003968,
+          "duration_seconds": 158.82013605442177
+        },
+        "snr_db": [
+          31.210307354757887,
+          30.303607048343263
+        ],
+        "decoded_sha256": "c6aceb85cfa29f6eed58b3523a80af7ffba42d2d806e0ed37368837267cca026",
+        "decoded_peak": 32767,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 149.225294200005
+      },
+      {
+        "key": "bex",
+        "master_sha256": "5798fddc24f598952a5a7419725d5bf3b40f4e26d26d7142b8fe0872a1aac807",
+        "wem_sha256": "338feec2fb7c821d3e49c5be0be22a0483743d97c859221ec6b107feadd019db",
+        "wem_bytes": 6364360,
+        "format": {
+          "channels": 2,
+          "rate": 32000,
+          "align": 72,
+          "data_offset": 64,
+          "data_size": 6364296,
+          "samples": 5657152,
+          "duration_seconds": 176.786
+        },
+        "snr_db": [
+          25.70218106232261,
+          26.14003382566199
+        ],
+        "decoded_sha256": "948af12c2b15003d5637ff844151c22b6801bd8fb8bde80d7da9601082014717",
+        "decoded_peak": 32768,
+        "decoder": "vgmstream",
+        "encoder_sha256": "2f3d4ed5b9a52d1511f81e60c8277d505cc85a320cb7c65a1b5bd84799b4194f",
+        "wall_seconds": 122.58083110000007
+      }
+    ]
+  },
+  "audio_quality": {
+    "passed": true,
+    "tracks": 18,
+    "checks": [
+      {
+        "key": "b1",
+        "saturated_samples": 0,
+        "total_samples": 6881280,
+        "saturation_ratio": 0.0,
+        "stereo_difference_rms": 6692.845721721471,
+        "minimum_snr_db": 25.357976412469725
+      },
+      {
+        "key": "b2",
+        "saturated_samples": 2,
+        "total_samples": 8489088,
+        "saturation_ratio": 2.3559656820614888e-07,
+        "stereo_difference_rms": 6572.143029887478,
+        "minimum_snr_db": 28.77168557005458
+      },
+      {
+        "key": "b3",
+        "saturated_samples": 9,
+        "total_samples": 10097920,
+        "saturation_ratio": 8.912726581315756e-07,
+        "stereo_difference_rms": 8780.860439415119,
+        "minimum_snr_db": 33.80742420427182
+      },
+      {
+        "key": "b4a",
+        "saturated_samples": 1,
+        "total_samples": 14467072,
+        "saturation_ratio": 6.912248725934315e-08,
+        "stereo_difference_rms": 7632.861940260627,
+        "minimum_snr_db": 28.702041591733412
+      },
+      {
+        "key": "b4b",
+        "saturated_samples": 3,
+        "total_samples": 11177984,
+        "saturation_ratio": 2.683847105166728e-07,
+        "stereo_difference_rms": 6037.632257729485,
+        "minimum_snr_db": 25.194412448884727
+      },
+      {
+        "key": "b5",
+        "saturated_samples": 1,
+        "total_samples": 10600192,
+        "saturation_ratio": 9.433791387929577e-08,
+        "stereo_difference_rms": 8221.171852744037,
+        "minimum_snr_db": 27.077864577121275
+      },
+      {
+        "key": "b6a",
+        "saturated_samples": 12,
+        "total_samples": 15712768,
+        "saturation_ratio": 7.637101241487178e-07,
+        "stereo_difference_rms": 8295.369737780182,
+        "minimum_snr_db": 26.647146404494112
+      },
+      {
+        "key": "b6b",
+        "saturated_samples": 9,
+        "total_samples": 15874048,
+        "saturation_ratio": 5.669631337891885e-07,
+        "stereo_difference_rms": 7533.418749804104,
+        "minimum_snr_db": 25.229584071194388
+      },
+      {
+        "key": "bex",
+        "saturated_samples": 9,
+        "total_samples": 11314304,
+        "saturation_ratio": 7.954532598735194e-07,
+        "stereo_difference_rms": 7725.688823376568,
+        "minimum_snr_db": 25.70218106232261
+      },
+      {
+        "key": "final",
+        "saturated_samples": 8,
+        "total_samples": 7224832,
+        "saturation_ratio": 1.107292183403019e-06,
+        "stereo_difference_rms": 8043.873337052387,
+        "minimum_snr_db": 24.220937168205786
+      },
+      {
+        "key": "s1",
+        "saturated_samples": 3,
+        "total_samples": 8391424,
+        "saturation_ratio": 3.5750785563928126e-07,
+        "stereo_difference_rms": 7162.530415208623,
+        "minimum_snr_db": 23.09770455589136
+      },
+      {
+        "key": "s2",
+        "saturated_samples": 1,
+        "total_samples": 9577856,
+        "saturation_ratio": 1.044074999665896e-07,
+        "stereo_difference_rms": 7490.233081370351,
+        "minimum_snr_db": 24.005098610535086
+      },
+      {
+        "key": "s3",
+        "saturated_samples": 2,
+        "total_samples": 8142848,
+        "saturation_ratio": 2.4561431086519117e-07,
+        "stereo_difference_rms": 9039.125786935663,
+        "minimum_snr_db": 34.00632290003927
+      },
+      {
+        "key": "s4",
+        "saturated_samples": 0,
+        "total_samples": 8404992,
+        "saturation_ratio": 0.0,
+        "stereo_difference_rms": 8976.265832412822,
+        "minimum_snr_db": 28.391928995290275
+      },
+      {
+        "key": "s5",
+        "saturated_samples": 13,
+        "total_samples": 8375424,
+        "saturation_ratio": 1.552160224962939e-06,
+        "stereo_difference_rms": 6139.737595765247,
+        "minimum_snr_db": 21.667981163413206
+      },
+      {
+        "key": "s6",
+        "saturated_samples": 3,
+        "total_samples": 7625344,
+        "saturation_ratio": 3.934248736843872e-07,
+        "stereo_difference_rms": 7651.657531208404,
+        "minimum_snr_db": 29.87238512339022
+      },
+      {
+        "key": "sex",
+        "saturated_samples": 3,
+        "total_samples": 14007936,
+        "saturation_ratio": 2.1416431371474e-07,
+        "stereo_difference_rms": 6710.279967756679,
+        "minimum_snr_db": 30.303607048343263
+      },
+      {
+        "key": "title",
+        "saturated_samples": 3,
+        "total_samples": 6357632,
+        "saturation_ratio": 4.718738045863617e-07,
+        "stereo_difference_rms": 8219.18121000792,
+        "minimum_snr_db": 36.03411574017739
+      }
+    ]
+  },
+  "gameplay_verified": false,
+  "map_modified": false,
+  "source_conversion_tool": "ncmdump-py 1.1.6",
+  "source_conversion_project": "https://github.com/ww-rm/ncmdump-py"
+}

@@ -1,0 +1,535 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "th08-original-full-v1",
+  "name": "TH08 永夜抄·原曲全替换（一轮版）",
+  "author": "ZUN（原曲）／crt106（方案整理）",
+  "description": "18 首原曲覆盖 20 个音乐目标，保留原速立体声、前奏与一轮完整旋律。完整循环需配套地图时长设置；切换前请卸载 TH01 方案。",
+  "createdAt": "2026-10-23T00:00:00+08:00",
+  "wonderland": {
+    "id": "1073741827",
+    "name": "TH08 永夜抄"
+  },
+  "tracks": [
+    {
+      "target": {
+        "fileID": 815131646,
+        "pck": "BeydMusic6.pck"
+      },
+      "targetRef": {
+        "index": 10178,
+        "name": "白夜洇润 Unfurling Night"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/title.wem",
+        "kind": "wem",
+        "sha256": "a48a88e88186297da33d7b895553f906ff1ec856e0dfac40ba2e23b330d0f8b8",
+        "durationHintSec": 72.08199546485261
+      },
+      "th08": {
+        "title": "永夜抄",
+        "slots": [
+          0
+        ],
+        "originalIntroSeconds": 5.611609977324263,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 113935891,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10041,
+        "name": "暮夜绮想 Eventide Caprice"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s1.wem",
+        "kind": "wem",
+        "sha256": "8d5be5cd691230634fa62f594adcec155b5f3723effdc303efa3989c97f3e489",
+        "durationHintSec": 131.116
+      },
+      "th08": {
+        "title": "幻视之夜",
+        "slots": [
+          10
+        ],
+        "originalIntroSeconds": 3.9677097505668932,
+        "sampleRate": 32000,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 887940362,
+        "pck": "BeydMusic6.pck"
+      },
+      "targetRef": {
+        "index": 10009,
+        "name": "星灭光离 Across Dimming Asterisms"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b1.wem",
+        "kind": "wem",
+        "sha256": "f5fbd6fc6ee13eb9020e306797c045201b7d31422570d7cf66e1aa58fae9c5e3",
+        "durationHintSec": 78.01904761904763
+      },
+      "th08": {
+        "title": "蠢蠢秋月",
+        "slots": [
+          11
+        ],
+        "originalIntroSeconds": 15.789569160997733,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 1073593745,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10087,
+        "name": "夜色温柔 Tender Is the Night"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s2.wem",
+        "kind": "wem",
+        "sha256": "0ab64c2e93ae85b172084f6cf450988253167f2e1548fbfb005a1e8f182bcb08",
+        "durationHintSec": 149.654
+      },
+      "th08": {
+        "title": "夜雀的歌声",
+        "slots": [
+          20
+        ],
+        "originalIntroSeconds": 2.76172335600907,
+        "sampleRate": 32000,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 948850237,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10130,
+        "name": "仲夏夜绮思 Die Mittsommernacht-Fantasie"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b2.wem",
+        "kind": "wem",
+        "sha256": "c08ec94ab13cf86ef27714d8ee99540748e22bc9f1f43e9d7da2dd5e652580e4",
+        "durationHintSec": 96.24816326530612
+      },
+      "th08": {
+        "title": "只能听见歌声",
+        "slots": [
+          21
+        ],
+        "originalIntroSeconds": 25.574603174603176,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 250629927,
+        "pck": "BeydMusic1.pck"
+      },
+      "targetRef": {
+        "index": 10092,
+        "name": "溶水的铃歌 The Sea and the Bells"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s3.wem",
+        "kind": "wem",
+        "sha256": "e4cc1fa4b8d45fdff79b0fce71454978059a80a81543284f9cd72119ddd0be2f",
+        "durationHintSec": 92.32253968253968
+      },
+      "th08": {
+        "title": "怀念的东方之血",
+        "slots": [
+          30
+        ],
+        "originalIntroSeconds": 15.537052154195012,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 352176831,
+        "pck": "BeydMusic2.pck"
+      },
+      "targetRef": {
+        "index": 10014,
+        "name": "洄映的漩流 Swirls of the Stream"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b3.wem",
+        "kind": "wem",
+        "sha256": "1e3893df577b58986a1938ca6b173c083e9945d3d186fbe6103ee98088aaab9f",
+        "durationHintSec": 114.4888888888889
+      },
+      "th08": {
+        "title": "慧音主题曲",
+        "slots": [
+          31
+        ],
+        "originalIntroSeconds": 26.9902947845805,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 679847910,
+        "pck": "BeydMusic5.pck"
+      },
+      "targetRef": {
+        "index": 10174,
+        "name": "柔月下的暗鸦 Raven Beneath the Tender Moon"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s4.wem",
+        "kind": "wem",
+        "sha256": "1857b47ddd5ecff06f77eede9708eedd02a390becf68f7fe59033e8deb3421c8",
+        "durationHintSec": 95.29469387755103
+      },
+      "th08": {
+        "title": "永夜的报应",
+        "slots": [
+          40,
+          50
+        ],
+        "originalIntroSeconds": 8.282267573696146,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 632455113,
+        "pck": "BeydMusic4.pck"
+      },
+      "targetRef": {
+        "index": 10079,
+        "name": "斩雾破竹 Duel in the Mist"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b4a.wem",
+        "kind": "wem",
+        "sha256": "38e4dcd93bb012711fb812eef771cba784b06813f1fed3a85b56b582a63700d2",
+        "durationHintSec": 164.0257596371882
+      },
+      "th08": {
+        "title": "少女绮想曲",
+        "slots": [
+          41
+        ],
+        "originalIntroSeconds": 13.251337868480725,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 92650598,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10076,
+        "name": "不休的风航 Perpetual Motion of Wind"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b4b.wem",
+        "kind": "wem",
+        "sha256": "7070da43bb7e94c1aadea4c0912ca80a701e5680b8fbf6d7ee30e1acd3f651d2",
+        "durationHintSec": 126.73451247165534
+      },
+      "th08": {
+        "title": "恋色魔炮",
+        "slots": [
+          51
+        ],
+        "originalIntroSeconds": 10.28063492063492,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 407341310,
+        "pck": "BeydMusic3.pck"
+      },
+      "targetRef": {
+        "index": 10113,
+        "name": "危迫之刻 La derniere opportunite"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s5.wem",
+        "kind": "wem",
+        "sha256": "81e5c568721ac160cd715a3172bdd8ee61efd0eacf06adbf52d3762e8a0bf0b4",
+        "durationHintSec": 174.488
+      },
+      "th08": {
+        "title": "灰姑娘的笼子",
+        "slots": [
+          60
+        ],
+        "originalIntroSeconds": 6.680090702947846,
+        "sampleRate": 24000,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 416386103,
+        "pck": "BeydMusic3.pck"
+      },
+      "targetRef": {
+        "index": 10108,
+        "name": "安魂的协奏曲 Requiem Resonantia"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b5.wem",
+        "kind": "wem",
+        "sha256": "44cc722f658c8a087785b715c58538ddfc7eb1e3afd96feeef2bee8e8912a71f",
+        "durationHintSec": 120.18358276643991
+      },
+      "th08": {
+        "title": "狂气之瞳",
+        "slots": [
+          61
+        ],
+        "originalIntroSeconds": 3.028027210884354,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 751647036,
+        "pck": "BeydMusic5.pck"
+      },
+      "targetRef": {
+        "index": 10068,
+        "name": "幽域的先导 Pathfinder of Darkness"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s6.wem",
+        "kind": "wem",
+        "sha256": "c43a41a17cfa1e6dd34a9c298cbcefe4915ff5619cba23a08cd528f0ce825d5e",
+        "durationHintSec": 86.45514739229024
+      },
+      "th08": {
+        "title": "1969航行",
+        "slots": [
+          70
+        ],
+        "originalIntroSeconds": 9.442902494331065,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 160017942,
+        "pck": "BeydMusic1.pck"
+      },
+      "targetRef": {
+        "index": 10167,
+        "name": "杯中明月 Moon in One's Cup"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/s6.wem",
+        "kind": "wem",
+        "sha256": "c43a41a17cfa1e6dd34a9c298cbcefe4915ff5619cba23a08cd528f0ce825d5e",
+        "durationHintSec": 86.45514739229024
+      },
+      "th08": {
+        "title": "1969航行",
+        "slots": [
+          80
+        ],
+        "originalIntroSeconds": 9.442902494331065,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 1045396952,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10109,
+        "name": "寒光裂涛 Combat Beneath the Waves"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b6a.wem",
+        "kind": "wem",
+        "sha256": "3c49c0907fccc082740297eaa02f05e1ef1395330e9433e68307c262d4332125",
+        "durationHintSec": 178.1492970521542
+      },
+      "th08": {
+        "title": "千年幻想乡",
+        "slots": [
+          71
+        ],
+        "originalIntroSeconds": 7.005170068027211,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 381995529,
+        "pck": "BeydMusic2.pck"
+      },
+      "targetRef": {
+        "index": 10169,
+        "name": "雪浪驰逐 Straight Through the Snowtide"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/b6b.wem",
+        "kind": "wem",
+        "sha256": "f701f9710965394a120b9803ac3e77fa3140249f79454e2c793927e8c10319e3",
+        "durationHintSec": 179.97786848072562
+      },
+      "th08": {
+        "title": "竹取飞翔",
+        "slots": [
+          81
+        ],
+        "originalIntroSeconds": 37.85868480725624,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 938364255,
+        "pck": "BeydMusic6.pck"
+      },
+      "targetRef": {
+        "index": 10165,
+        "name": "永夜与破晓的誓刃 To Light the Aeon Dark"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/final.wem",
+        "kind": "wem",
+        "sha256": "2dbc0c6c88870c76c8d6ff016faf3c7153b8dc50e058e440b6eb949615065c6d",
+        "durationHintSec": 81.91419501133787
+      },
+      "th08": {
+        "title": "1970航行",
+        "slots": [
+          72
+        ],
+        "originalIntroSeconds": 70.08290249433107,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 480313829,
+        "pck": "BeydMusic3.pck"
+      },
+      "targetRef": {
+        "index": 10187,
+        "name": "涉行之刻 Wading in Hazy Light"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/final.wem",
+        "kind": "wem",
+        "sha256": "2dbc0c6c88870c76c8d6ff016faf3c7153b8dc50e058e440b6eb949615065c6d",
+        "durationHintSec": 81.91419501133787
+      },
+      "th08": {
+        "title": "1970航行",
+        "slots": [
+          82
+        ],
+        "originalIntroSeconds": 70.08290249433107,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 952564916,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10020,
+        "name": "炽火之舞 A Dance in Fire"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/sex.wem",
+        "kind": "wem",
+        "sha256": "f0e2575684b92609463e286f6febe9d837517adbb6cef32ce837d365ffc3d3b2",
+        "durationHintSec": 158.82013605442177
+      },
+      "th08": {
+        "title": "延伸的灰烬",
+        "slots": [
+          90
+        ],
+        "originalIntroSeconds": 4.995918367346939,
+        "sampleRate": 44100,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    },
+    {
+      "target": {
+        "fileID": 108629713,
+        "pck": "BeydMusic0.pck"
+      },
+      "targetRef": {
+        "index": 10176,
+        "name": "实力碾鸭！ Duckle 'em Down!"
+      },
+      "audio": {
+        "uri": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/bex.wem",
+        "kind": "wem",
+        "sha256": "338feec2fb7c821d3e49c5be0be22a0483743d97c859221ec6b107feadd019db",
+        "durationHintSec": 176.786
+      },
+      "th08": {
+        "title": "飘至月球，不死之烟",
+        "slots": [
+          91
+        ],
+        "originalIntroSeconds": 7.566984126984127,
+        "sampleRate": 32000,
+        "channels": 2,
+        "source": "本地原曲音频，按原作循环点整理"
+      }
+    }
+  ]
+}

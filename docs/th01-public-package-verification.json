@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 58,
+  "tracks": 15,
+  "package_sha256": "8de3b3285724d0cc7f709a976291168c06b0fbb39502688c962c7909f11fe8f1",
+  "real_capacity_checks": true,
+  "synthetic_install_restore": true,
+  "existing_replacements": 15,
+  "real_game_unchanged": true,
+  "gameplay_verified": false
+}

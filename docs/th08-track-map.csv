@@ -1,0 +1,22 @@
+﻿关卡,用途,原曲编号,原曲名,替换曲名,音频时长秒,地图原时长秒,采样率,声道
+menu,主菜单,10178,白夜洇润 Unfurling Night,永夜抄,72.081995,94,44100,2
+1,道中,10041,暮夜绮想 Eventide Caprice,幻视之夜,131.115844,98,32000,2
+1,Boss,10009,星灭光离 Across Dimming Asterisms,蠢蠢秋月,78.019048,242,44100,2
+2,道中,10087,夜色温柔 Tender Is the Night,夜雀的歌声,149.652625,100,32000,2
+2,Boss,10130,仲夏夜绮思 Die Mittsommernacht-Fantasie,只能听见歌声,96.248163,235,44100,2
+3,道中,10092,溶水的铃歌 The Sea and the Bells,怀念的东方之血,92.32254,96,44100,2
+3,Boss,10014,洄映的漩流 Swirls of the Stream,慧音主题曲,114.488889,250,44100,2
+4a,道中,10174,柔月下的暗鸦 Raven Beneath the Tender Moon,永夜的报应,95.294694,104,44100,2
+4b,道中,10174,柔月下的暗鸦 Raven Beneath the Tender Moon,永夜的报应,95.294694,104,44100,2
+4a,Boss,10079,斩雾破竹 Duel in the Mist,少女绮想曲,164.02576,249,44100,2
+4b,Boss,10076,不休的风航 Perpetual Motion of Wind,恋色魔炮,126.734512,213,44100,2
+5,道中,10113,危迫之刻 La derniere opportunite,灰姑娘的笼子,174.487792,94,24000,2
+5,Boss,10108,安魂的协奏曲 Requiem Resonantia,狂气之瞳,120.183583,149,44100,2
+6a,道中,10068,幽域的先导 Pathfinder of Darkness,1969航行,86.454603,103,44100,2
+6b,道中,10167,杯中明月 Moon in One's Cup,1969航行,86.454603,117,44100,2
+6a,Boss,10109,寒光裂涛 Combat Beneath the Waves,千年幻想乡,178.149297,247,44100,2
+6b,Boss,10169,雪浪驰逐 Straight Through the Snowtide,竹取飞翔,179.977868,249,44100,2
+6a,终盘,10165,永夜与破晓的誓刃 To Light the Aeon Dark,1970航行,81.914195,191,44100,2
+6b,终盘,10187,涉行之刻 Wading in Hazy Light,1970航行,81.914195,102,44100,2
+extra,道中,10020,炽火之舞 A Dance in Fire,延伸的灰烬,158.81941,223,44100,2
+extra,Boss,10176,实力碾鸭！ Duckle 'em Down!,飘至月球，不死之烟,176.7845,126,32000,2
